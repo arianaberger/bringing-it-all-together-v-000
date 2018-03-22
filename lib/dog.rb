@@ -71,4 +71,7 @@ class Dog
     self.new_from_db(dog_data)
   end
 
+  def update
+  end
+
 end
